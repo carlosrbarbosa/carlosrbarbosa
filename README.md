@@ -2,21 +2,34 @@
 
 # Oi, eu sou Carlos Rocha Barbosa 🚀
 
-Bem-vindo ao meu perfil do GitHub! Sou um(a) entusiasta de tecnologia, apaixonado(a) por programação e sempre em busca de aprender coisas novas. Atualmente, estou interessado(a) em desenvolvimento web, aprendizado de máquina e ciência de dados.
+Olá! Sou um estudante apaixonado por tecnologia, atualmente cursando Sistemas de Informação no 4º semestre na Universidade Nove de Julho. Além dos meus estudos, estou constantemente aprimorando minhas habilidades em desenvolvimento web e tecnologias relacionadas. Sou entusiasta de UX/UI e estou sempre em busca de desafios inovadores. Fique à vontade para explorar meus projetos e contribuições! 🚀✨
 
 ## 📊 Minhas Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlosrbarbosa&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosrbarbosa&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Carlos Barbosa" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrbarbosa&layout=compact&theme=radical" alt="Linguagens mais usadas por Carlos Barbosa no GitHub" />
+</div>
 
 
 ## 💼 Habilidades e Tecnologias
 
-- Linguagens de Programação: JavaScript, Python, Java
-- Tecnologias e Ferramentas: React, Node.js, Git, MongoDB
+Linguagens de Marcação e Estilo: HTML, CSS, Bootstrap
+
+Linguagens de Programação: JavaScript (ES6/ECMAScript), PHP, Java, Python
+
+Bancos de Dados: Oracle PL/SQL, MySQL
+
+Frameworks e Bibliotecas: jQuery, SASS, WordPress
+
+Controle de Versão Git/GitHub 
 
 ## 🌱 Atualmente Estudando
 
-Estou atualmente focado em aprender mais sobre aprendizado de máquina e desenvolvimento de aplicativos web avançados.
+Estudante de Sistemas de Informação (4º semestre) na Universidade Nove de Julho. Também estudo inglês regularmente. 🚀
 
 ## 🔗 Conecte-se Comigo
 
