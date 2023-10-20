@@ -8,8 +8,8 @@
 - I'm currently delving into Software Architecture 🏗️
 - I'm love watching anime, playing video games 🎮, and going to the gym 💪
 
-Clique [aqui](https://www.canva.com/design/DAFwIQSAB3w/m98fHDwx7EqiAiHeaSZd0Q/view) para ver o meu currículo! 🇧🇷
-Click [aqui](https://www.canva.com/design/DAFwIQSAB3w/m98fHDwx7EqiAiHeaSZd0Q/view) here to view my resume! 🇧🇷
+<p>Clique [aqui](https://www.canva.com/design/DAFwIQSAB3w/m98fHDwx7EqiAiHeaSZd0Q/view) para ver o meu currículo! 🇧🇷 </p>
+<p>Click [aqui](https://www.canva.com/design/DAFwIQSAB3w/m98fHDwx7EqiAiHeaSZd0Q/view) here to view my resume! 🇧🇷</p>
 
 
 
