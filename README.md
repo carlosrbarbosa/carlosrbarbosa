@@ -21,8 +21,4 @@ Click [aqui](https://www.canva.com/design/DAFwIQSAB3w/m98fHDwx7EqiAiHeaSZd0Q/vie
  ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)![Oracle PL/SQL](https://img.shields.io/badge/-Oracle%20PL/SQL-F80000?style=flat&logo=oracle&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
  </div>
  
- <p align="center"> 
-
-   ![Snake animation](https://github.com/carlosrbarbosa/carlosrbarbosa/blob/output/github-contribution-grid-snake.svg)
- </p>
 
