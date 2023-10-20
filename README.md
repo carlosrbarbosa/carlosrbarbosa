@@ -23,6 +23,6 @@ Click [aqui](https://www.canva.com/design/DAFwIQSAB3w/m98fHDwx7EqiAiHeaSZd0Q/vie
  
  <p align="center"> 
 
-  ![Snake animation](https://github.com/carlosrbarbosa/carlosrbarbosa/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/carlosrbarbosa/carlosrbarbosa/blob/output/github-contribution-grid-snake.svg)
  </p>
 
