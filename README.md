@@ -6,7 +6,7 @@
 - I'm a **Software Developer**  ❤️
 - studying Information Systems (4th semester) at [Uninove](https://www.uninove.br/) 🎓 💻
 - I'm currently delving into Software Architecture 🏗️
-- I'm love watching anime, playing video games 🎮, and going to the gym 💪
+- I'm love watching anime, playing video games 🎮, and going to the gym  💪
 
 Click [aqui](https://www.canva.com/design/DAFwIQSAB3w/m98fHDwx7EqiAiHeaSZd0Q/view) here to view my resume! 🇧🇷
 
