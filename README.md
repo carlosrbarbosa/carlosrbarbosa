@@ -4,7 +4,7 @@
 <img align="right" width="276" src="https://media.tenor.com/m2HlW_iClNUAAAAC/demon-slayer-kimetsu-no-yaiba.gif" />
 
 - I'm a **Software Developer**  ❤️
-- studying Information Systems (4th semester) at [Uninove](https://www.uninove.br/) 🎓 💻
+- studying Information Systems (5th semester) at [Uninove](https://www.uninove.br/) 🎓 💻
 - I'm currently delving into Software Architecture 🏗️
 - I'm love watching anime, playing video games 🎮, and going to the gym  💪
 
