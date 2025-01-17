@@ -1,7 +1,7 @@
 # Hello Word, there! I'm Carlos :wave:     
 ## About me:      
 
-<img align="right" width="276" src="https://media.tenor.com/m2HlW_iClNUAAAAC/demon-slayer-kimetsu-no-yaiba.gif" />
+<img align="right" width="276" src="https://media.tenor.com/m2HlW_iClNUAAAAC/demon-slayer-kimetsu-no-yaiba.gif" />   
 
 - I'm a **Software Developer**  ❤️
 - studying Information Systems (5th semester) at [Uninove](https://www.uninove.br/) 🎓 💻
