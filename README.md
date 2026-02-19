@@ -10,7 +10,7 @@ Background em sistemas corporativos, APIs e bancos de dados.
 
 ## 👨‍💻 Sobre mim
 
-- Analista de Dados com experiência prática em **Python (Pandas)**, **SQL** e **Power BI**
+- Analista de Dados com experiência prática em **Python (Pandas)**, **SQL**, **EXCEL** e **Power BI**
 - Estudante de **Sistemas de Informação (5º semestre)** na [Uninove](https://www.uninove.br/)
 - Experiência em **análise de dados operacionais** e construção de **dashboards**
 - Vivência em **bancos de dados relacionais** e múltiplas fontes de dados
