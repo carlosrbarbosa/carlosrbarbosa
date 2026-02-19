@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Carlos Rocha Barbosa
 
-### Data Analyst | Python | SQL | Excel Avançado | Power BI | Indicadores, Recorrência e Qualidade de Dados
-
 Analista de Dados com experiência em análise, tratamento e visualização de dados utilizando Python (Pandas), SQL e Power BI.  
 Atuação em consolidação de dados, identificação de padrões e construção de indicadores para suporte à decisão.  
 Background em sistemas corporativos, APIs e bancos de dados.
